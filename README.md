@@ -1,2 +1,2 @@
-# PA-0193-AK
-Proyek Akhir Praktikum
+# 0193-AK
+G.231.18.0193 - Abdul Khamid
